@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DmyRE8vTnDp9ObJx0b1TdYCpYdh5xs5xN5hpYXrNuRNqABPUwXX00k4Tzs1CtwRw64tG3zLTmh2TNClhJb7yrQ==",
+  "success": true,
+  "projectFilePath": "/Users/areefeen/Projects/CheckAL/CheckAL/CheckAL.csproj",
+  "expectedPackageFiles": [
+    "/Users/areefeen/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/areefeen/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/areefeen/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/areefeen/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/areefeen/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/areefeen/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
